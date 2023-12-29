@@ -1,0 +1,38 @@
+.screen-header__icons__dot,
+.icons__dot {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
+
+.gear__dot {
+  left: 20px;
+  top: -4px;
+}
+
+.nav__dot {
+  left: 30px;
+}
+
+.dot__mom {
+  position: relative;
+}
+
+.ex-mark {
+  border-radius: 50%;
+  border: solid 1px tomato;
+  color: tomato;
+  width: 17px;
+  height: 17px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 160px;
+  bottom: 0px;
+}
